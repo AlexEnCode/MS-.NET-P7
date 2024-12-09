@@ -294,7 +294,7 @@ Les classes sont généralement utilisées pour les objets complexes, tandis que
 - **Types référence** : Contiennent une référence à un objet en mémoire (par exemple, `string`, `class`).
 - Les **constantes** sont des valeurs qui ne peuvent pas changer après leur initialisation.
 - Les **types nullable** permettent à une variable de type valeur de prendre la valeur `null`.
-``` 
+
 
 
 
@@ -302,7 +302,7 @@ Les classes sont généralement utilisées pour les objets complexes, tandis que
 
 Voici un tableau récapitulatif des principaux types existants en C# :
 
-```markdown
+
 | **Catégorie**             | **Type**                   | **Description**                                                                  |
 | ------------------------- | -------------------------- | -------------------------------------------------------------------------------- |
 | **Types numériques**      | `byte`                     | Entier non signé de 8 bits (0 à 255)                                             |
@@ -328,7 +328,7 @@ Voici un tableau récapitulatif des principaux types existants en C# :
 |                           | `Dictionary<TKey, TValue>` | Dictionnaire générique avec clé `TKey` et valeur `TValue`                        |
 | **Types énumérés**        | `enum`                     | Type pour définir un ensemble de valeurs symboliques (ex : `Days`)               |
 | **Types d'interface**     | `interface`                | Type qui définit un contrat sans implémentation (ex : `IDriveable`)              |
-```
+
 
 ### Explication des catégories :
 1. **Types numériques** : Ce sont les types pour les entiers et les nombres à virgule flottante, utilisés pour représenter des données numériques.
